@@ -13,7 +13,7 @@
 # 转换了一些应该大写的
 ---
 name: en_most_common
-version: "2022-12-30"
+version: "2022-11-08"
 sort: by_weight
 ...
 # 含有大写字母的：
@@ -64,7 +64,6 @@ Sat.	Sat
 Sunday	Sunday
 Sun.	Sun
 NASA	NASA
-Java	Java
 # +_+
 abandoned	abandoned
 abc	abc
@@ -3939,6 +3938,7 @@ jane	jane
 janet	janet
 jar	jar
 jason	jason
+java	java
 jay	jay
 jazz	jazz
 jean	jean
@@ -4035,7 +4035,6 @@ kenya	kenya
 kept	kept
 kerry	kerry
 kevin	kevin
-key	key
 keyboard	keyboard
 keys	keys
 keywords	keywords
@@ -7913,7 +7912,6 @@ wellness	wellness
 wells	wells
 welsh	welsh
 wendy	wendy
-went	went
 were	were
 west	west
 western	western
