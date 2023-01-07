@@ -17,7 +17,6 @@ version: "2022-11-08"
 sort: by_weight
 ...
 # 含有大写字母的：
-CD	CD
 CN	CN
 DNA	DNA
 ID	ID
@@ -1062,7 +1061,6 @@ burning	burning
 burns	burns
 burst	burst
 burton	burton
-bus	bus
 buses	buses
 bush	bush
 business	business
@@ -1953,7 +1951,6 @@ danger	danger
 dangerous	dangerous
 daniel	daniel
 danish	danish
-dans	dans
 dare	dare
 dark	dark
 darkness	darkness
@@ -6293,7 +6290,6 @@ roy	roy
 royal	royal
 royalty	royalty
 rubber	rubber
-rug	rug
 rugby	rugby
 rugs	rugs
 rule	rule
@@ -6585,7 +6581,6 @@ sheriff	sheriff
 shield	shield
 shift	shift
 shine	shine
-ship	ship
 shipment	shipment
 shipments	shipments
 shipped	shipped
